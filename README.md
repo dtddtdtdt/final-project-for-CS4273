@@ -1,5 +1,5 @@
 # final-project-for-CS4273
-CS4273
+Đề tài quản lý học sinh
 
 Participants:
 
